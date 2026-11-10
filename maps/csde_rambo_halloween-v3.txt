@@ -1,0 +1,14 @@
+Map Name: csde_rambo_halloween-v3
+Mod: CS 1.6
+Author: *R@mbo*
+Edits: Hiko Zukushiro
+
+Hi everyone, and welcome to csde_rambo_halloween-v3!
+This map was created on October 30, 2005, for Halloween, and updated two times (v2, and v3) on March 7, 2006 and October 27th, 2026.
+It is a small edit of csde_rambo_halloween-v2
+
+- There are now twenty one spawns for both Counter-Terrorists and Terrorists.
+
+- There are now HE Grenade spawns in certain areas.
+
+Enjoy, and good luck!
