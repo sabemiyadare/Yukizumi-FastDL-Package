@@ -1,0 +1,15 @@
+cs_rats_assault - hostage rescue
+map by The^Kitty2k (kitty2k@mapscene.de;www.thekitty2k.de.vu)
+
+Counter-Terrorists:
+Try to rescue the hostages.
+
+Terrorists:
+Oh well...kill those guys in the dark uniforms.
+
+(Press FIRE to continue)
+
+thx to:
+www.mapscene.de
+
+model by CMGLee (cmg_lee@yahoo.com)

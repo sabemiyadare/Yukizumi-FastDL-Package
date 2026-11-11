@@ -1,0 +1,14 @@
+// overview description file for cs_rats_assault.bsp  (overview by The^Kitty2k / kitty2k@mapscene.de)
+
+global 
+{
+	ZOOM	2.18
+	ORIGIN	-344.00   225.00   -1132.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_rats_assault.tga"
+	HEIGHT	-1132.00
+}
