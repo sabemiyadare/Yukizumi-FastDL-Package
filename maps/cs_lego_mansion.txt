@@ -1,0 +1,15 @@
+Lego Mansion - Hostage Rescue
+by Cmdr
+
+Based on cs_mansion by Magnus Lind
+Hostage models by CMGLee
+Skybox by Squall
+
+Counter-Terrorists:
+Enter the brick build mansion and rescue the hostages.
+
+Terrorists:
+Defend our brick build mansion at all cost.
+
+Other notes:
+There are 4 hostage minifigures in the mission.

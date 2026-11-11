@@ -1,0 +1,14 @@
+// overview description file for cs_lego_mansion.bsp
+
+global 
+{
+	ZOOM	1.66
+	ORIGIN	464	-384	716
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_lego_mansion.tga"
+	HEIGHT	16
+}
