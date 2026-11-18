@@ -9,6 +9,6 @@ global
 
 layer 
 {
-	IMAGE	"overviews/zm_evil.bmp"
+	IMAGE	"overviews/zm_evil_re.bmp"
 	HEIGHT	-833
 }
