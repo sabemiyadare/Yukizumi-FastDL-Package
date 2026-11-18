@@ -1,0 +1,59 @@
+----------------------------------------------
+Uboa Pizza (cs_pizza_ya_san) - Hostage Rescue
+----------------------------------------------
+original map by takedeppo.50cal
+converted to Counter-Strike by H1k0Pwn5j00 (Hiko Zukushiro)
+
+Rogue pizza shop employees have taken five customers, and four employees hostage.
+
+They are demanding that all of the materials needed for a whole pizza must be transferred to them
+so that they can complete their own pizza and for their own enjoyment.
+
+One of the employees had to call the police to rescue him, including the customers and the other
+two employees.
+
+Counter-Terrorists: Rescue all of the hostages and bring them either to the meat shop. Good luck.
+
+Terrorists: Prevent all of the Counter-Terrorists from rescuing the hostages. Use all of your forces!
+
+----------------------------------------------
+There are health kits sitting in certain areas. These are really useful in case if you are wounded.
+
+There is a assault suit near T spawn. The AK47 is located underground of the pizza shop.
+
+Map dedicated to all Anime, Uboa, and Counter-Strike fans.
+
+-- Credits ------------------------------------------
+* MODEL
+ - CyroDragon's Blue Shift hands (Modified):
+   http://forums.svencoop.com/showthread.php/42887-Pack-Blue-Shift-hands-for-Sven-Co-op-5-0
+ - CZhand_SC4pack M4(Modified):
+ - Pete jan07's? mossberg shotgun model(Modified)
+ - M61 grenade:
+   Heart Of Evil Mod
+ - sc_votemap houndeye model
+ - Mr.GAMESABA
+ - TFC civilian
+ - Desert Eagle
+ - M82A1
+ - oldorangeford
+ etc
+ 
+* MUSIC
+ - 50cal fun time sound (Killing Floor SDK)
+ - AK101
+ - Rengoku Teien's music:
+     [majyocapi.mp3, swirl.mp3]
+   http://www.rengoku-teien.com/index.html
+ - Tam Music Factory's music: 
+     [tamau03.mp3, tammb01.mp3, tammb13.mp3, tam-n02.mp3, tam-n06.mp3]
+   http://www.tam-music.com/
+ - MusMus's music: 
+     [tw004.ogg, tw061.ogg]
+   http://musmus.main.jp/
+ - Hungarian Dances (Brahms)
+ - uboa map sounds
+
+* SOUND
+ - Phone call sound
+   http://dova-s.jp/se/play019.html
